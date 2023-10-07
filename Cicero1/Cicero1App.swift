@@ -1,7 +1,7 @@
 //
 //  Cicero1App.swift
 //  Cicero1
-// cazzo ciaoo hola
+// cazzo none
 //  Created by Alberto Chiapparoli on 30/09/23.
 //
 
